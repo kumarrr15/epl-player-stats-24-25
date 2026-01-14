@@ -7,6 +7,18 @@ Analysis of 562 English Premier League players from the 2024-25 season, focusing
 
 ---
 
+## ⚽ What is Expected Goals (xG)?
+
+Expected Goals (xG) is a football analytics metric that estimates how likely a shot
+is to result in a goal based on factors such as shot location, angle, and situation.
+Each shot is assigned a value between 0 and 1, where higher values represent better
+scoring chances.
+
+For example, a tap-in from close range has a high xG of ~ 0.85, while a long-distance shot
+under pressure has a low xG, something like 0.14.
+
+---
+
 ## 📊 Dataset
 - Season: 2024–25 EPL
 - Source: FBREF Premier league 2024/25 player stats dataset

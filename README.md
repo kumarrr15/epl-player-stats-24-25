@@ -51,7 +51,7 @@ epl-player-stats-24-25/
 1. Top 10 xG Overperformers:
    ![Top 10 xG Overperformers](visuals/top10_xg_overperformers.png)
 2. xG vs. Actual Goals: (hover to view player details)
-   [View interactive chart](visuals/xg_vs_goals_interactive.html)
+   [View interactive chart](https://kumarrr15.github.io/epl-player-stats-24-25/xg_vs_goals_interactive.html)
 
 ---
 

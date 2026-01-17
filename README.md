@@ -67,6 +67,14 @@ epl-player-stats-24-25/
 
 ---
 
+## 📊Interactive Dashboard
+
+View the interactive Tableau dashboard here:  
+[Tableau Public – EPL Player Finishing Analysis]([View_Interactive_Dashboard](https://public.tableau.com/views/EPLPlayerFinishingAnalysis202425/EPLPlayerFinishingAnalysisGoalsxG?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+
+---
+
 ## 🚀 How to Run
 ```bash
 # Clone repo
